@@ -1,4 +1,5 @@
-[Live Demo] (https://tesla-clone-akdex.netlify.app/)
+[See Live Demo](https://tesla-clone-akdex.netlify.app/)
+
 <img src="https://repository-images.githubusercontent.com/417760658/0b4b239b-1f4e-4a95-b2d1-c137571542c7" />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
