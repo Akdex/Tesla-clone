@@ -9,21 +9,21 @@ function Header() {
     return (
         <Contaianer>
         <a>
-            <img src="/images/logo.svg" alt="Tesla-logo" />
+            <img src="images/logo.svg" alt="Tesla-logo" />
         </a>
 
         <Menu>
-         <a href="">Model S</a>
-         <a href="">Model 3</a>
-         <a href="">Model X</a>
-         <a href="">Model Y</a>
-         <a href="">Solar Roof</a>
-         <a href="">Solar Panels</a>
+         <a href="/">Model S</a>
+         <a href="/">Model 3</a>
+         <a href="/">Model X</a>
+         <a href="/">Model Y</a>
+         <a href="/">Solar Roof</a>
+         <a href="/">Solar Panels</a>
         </Menu>
 
         <RightMenu>
-          <a href="">Shop</a>
-          <a href="">Tesla Account</a>
+          <a href="/">Shop</a>
+          <a href="/">Tesla Account</a>
 
           <CustomMenu onClick={() => setBurgerStatus(true)} />
 
@@ -35,24 +35,24 @@ function Header() {
             <CustomClose onClick={() => setBurgerStatus(false)} />
 
           </CloseWrapper>
-         <li><a href="">Model S</a></li>
-         <li><a href="">Model 3</a></li>
-         <li><a href="">Model X</a></li>
-         <li><a href="">Model Y</a></li>
-         <li><a href="">Solar Roof</a></li>
-         <li><a href="">Solar Panels</a></li>
-         <li><a href="">Existing Inventory</a></li>
-         <li><a href="">Used Inventory</a></li>
-         <li><a href="">Trade-In</a></li>
-         <li><a href="">Test Drive</a></li>
-         <li><a href="">Powerwall</a></li>
-         <li><a href="">Commercial Energy</a></li>
-         <li><a href="">Utilities</a></li>
-         <li><a href="">Charging</a></li>
-         <li><a href="">Support</a></li>
-         <li><a href="">Shop</a></li>
-         <li><a href="">Account</a></li>
-         <li><a href="">More    </a></li>
+         <li><a href="/">Model S</a></li>
+         <li><a href="/">Model 3</a></li>
+         <li><a href="/">Model X</a></li>
+         <li><a href="/">Model Y</a></li>
+         <li><a href="/">Solar Roof</a></li>
+         <li><a href="/">Solar Panels</a></li>
+         <li><a href="/">Existing Inventory</a></li>
+         <li><a href="/">Used Inventory</a></li>
+         <li><a href="/">Trade-In</a></li>
+         <li><a href="/">Test Drive</a></li>
+         <li><a href="/">Powerwall</a></li>
+         <li><a href="/">Commercial Energy</a></li>
+         <li><a href="/">Utilities</a></li>
+         <li><a href="/">Charging</a></li>
+         <li><a href="/">Support</a></li>
+         <li><a href="/">Shop</a></li>
+         <li><a href="/">Account</a></li>
+         <li><a href="/">More    </a></li>
         </BurgerNav>
 
 
